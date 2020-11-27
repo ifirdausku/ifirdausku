@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ifirdausku&show_icons=true"> 
 
-<!--
-**ifirdausku/ifirdausku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello I'm Firdaus
+I'm Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
-Here are some ideas to get you started:
+- 💻 Stack: `PHP`, `SQL`
+- 💻 On progress `Laravel & CI Projects`
+- 💻 Currently learning about `JavaScript`, `Node.js`, `AWS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Web](https://img.shields.io/static/v1?label=Website&message=%20&logo=PHP&style=flat-square&logoColor=white)](https://ifirdausku.blogspot.com)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ifirdausku/)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&logo=Twitter&style=flat-square&logoColor=cyan)](https://twitter.com/ifirdausku)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&logo=Telegram&style=flat-square&logoColor=blue)](https://t.me/ifirdausku)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/ifirdausku/)
