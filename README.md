@@ -17,9 +17,7 @@ I'm Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
 **You can find me on:**
 
-<a href="https://facebook.com/ifirdausku">
-  <img align="left" alt="Muhamad Firdaus Hidayat | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
 <a href="https://twitter.com/ifirdausku">
   <img align="left" alt="Muhamad Firdaus Hidayat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
