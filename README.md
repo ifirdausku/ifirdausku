@@ -1,7 +1,7 @@
 ## Hello I'm Firdaus :octocat:
 I'm Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
-- 💻 Stack: `PHP`, `SQL`
+- 💻 Stack: `Pascal`, `PHP`, `SQL`
 - 💻 On progress `Laravel & CI Projects`
 - 💻 Currently learning about `JavaScript`, `Node.js`, `AWS`
 
