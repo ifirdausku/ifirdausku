@@ -1,5 +1,6 @@
 ## Hello I'm Firdaus :octocat:
-I'm Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
+I'm a Developer at Intrasoft (Surabaya, Indonesia)
+Former Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
 - 💻 Stack: `Pascal`, `PHP`, `SQL`
 - 💻 On progress `Laravel & CI Projects`
