@@ -18,8 +18,8 @@ Former Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-**You can find me on:**
 
+**You can find me on:**
 
 <a href="https://twitter.com/ifirdausku">
   <img align="left" alt="Muhamad Firdaus Hidayat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -34,6 +34,10 @@ Former Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ifirdausku&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="ifirdausku" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ifirdausku&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="ifirdausku" />
+<a href="https://github.com/ifirdausku?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ifirdausku&column=8&margin-w=15&margin-h=15" alt="ifirdausku"></a>
+</p>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ifirdausku)
