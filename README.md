@@ -35,7 +35,6 @@ Former Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ifirdausku&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="ifirdausku" />
 <a href="https://github.com/ifirdausku?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ifirdausku&column=8&margin-w=15&margin-h=15" alt="ifirdausku"></a>
 </p>
 
