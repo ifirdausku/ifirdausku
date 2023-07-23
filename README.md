@@ -21,22 +21,16 @@ Former Developer at PT. Intidragon Suryatama (Mojokerto, Indonesia)
 
 **You can find me on:**
 
-<a href="https://twitter.com/ifirdausku">
-  <img align="left" alt="Muhamad Firdaus Hidayat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ifirdausku/">
-  <img align="left" alt="Firdaus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-[![Web](https://img.shields.io/static/v1?label=Website&message=%20&logo=PHP&style=flat-square&logoColor=white)](https://ifirdausku.blogspot.com)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ifirdausku/)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&logo=Telegram&style=flat-square&logoColor=blue)](https://t.me/ifirdausku)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/ifirdausku)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=linkedIn&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ifirdausku/)
+[![Blog](https://img.shields.io/static/v1?label=Blog&message=%20&logo=PHP&style=for-the-badge&logoColor=white)](https://ifirdausku.blogspot.com)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&logo=Instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/ifirdausku/)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&logo=Telegram&style=for-the-badge&logoColor=white)](https://t.me/ifirdausku)
 
 
 📈 GitHub Stats
 <p align="center">
 <a href="https://github.com/ifirdausku?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=ifirdausku&column=8&margin-w=15&margin-h=15" alt="ifirdausku"></a>
 </p>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ifirdausku)
